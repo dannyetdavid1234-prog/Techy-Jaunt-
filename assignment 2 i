@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porridge Recipe</title>
+</head>
+<body><header>
+    <h1>How to make a Porridge</h1>
+    <p>This is an introductory to making Porridge </p>
+    <h2>Ingredients/Materials Needed</h2>
+    </header>
+    <section>
+    <ul>
+        <li>Water</li>
+        <li>Yam</li>
+        <li>A handful of salt</li>
+        <li>Sugar</li>
+        <li>Pepper</li>
+    </ul>
+    
+    <h2>Instructions/Steps</h2>
+
+    <ol type="1">
+        <li>First peel the yam while the water is on fire</li>
+        <li>Next rinse the yam then put it on fire</li>
+        <li>Then add other ingredients</li>
+        <li>After that serve in a bowl</li>
+    </ol>
+    <img src="/udemy 1/yam porridge.jfif" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUukAMMJd542rDLcLy-HS37PoEEtC_Oom36dBDhsnj0Q&s=10">
+    </section>
+</body>
+</html>
