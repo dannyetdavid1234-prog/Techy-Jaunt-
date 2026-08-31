@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel's Profile</title>
+</head>
+<body>
+    <h1>DANIEL DAVID </h1>
+    <h2>About Me</h2>
+    <p>My name is Daniel David,I am a student of Techyjaunt, I am on the pathway of learning Web developmet(Front End developmet)</p>
+    <p>I am lover of football and i an optimistic individual who see pleasure in creating things </p>
+    <h2>My Interest</h2>
+    <ul>
+        <li>Building Websites</li>
+        <li>Travelling</li>
+        <li>Reading Books</li>
+        <li>Stock Market</li>
+        <li>Music</li>
+    </ul>
+    <img src="/PROJECT 1/INTRO/nounimage 11.png" alt="Noun Image ">
+    <a href="https://www.google.com/">Google Website</a>
+    <a href="https://gemini.google.com/">Gemini Website </a>
+</body>
+</html>
